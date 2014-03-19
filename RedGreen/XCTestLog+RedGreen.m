@@ -11,8 +11,8 @@
 #define CLR_WHT "239,239,239"
 #define CLR_GRY "150,150,150"
 #define CLR_WOW "241,196,15"
-#define CLR_GRN "46,204,113"
-#define CLR_RED "211,84,0"
+#define CLR_GRN "0,186,255"
+#define CLR_RED "255,69,0"
 
 static     BOOL isXcodeColorsEnabled;
 NSString *const kRGTestCaseFormat 				= @"%@: %s (%.3fs)",
